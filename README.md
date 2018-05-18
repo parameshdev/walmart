@@ -1,2 +1,0 @@
-# walmart
-cart update
